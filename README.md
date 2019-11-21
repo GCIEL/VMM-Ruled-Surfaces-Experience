@@ -11,12 +11,12 @@ The ruled surfaces investigated in this experience are grounded in models made b
 
 The experience interactively explains what a ruled surface is to the player by showing them how to construct a cylinder. Each challenge is visualized as a blue transparent blueprint that players have to fill in with their rulings. The experience also draws animated hints that show how one can move their hands to create the challenges. Players must decide for themselves whether or not they have solved how to construct a given challenge.
 
-The main Unity scene file is [Ruled Surfaces Experience/Assets/Scenes/Ruled Surfaces Demo](https://github.com/GCIEL/VMM-Ruled-Surfaces-Experience/blob/master/Ruled%20Surfaces%20Experience/Assets/Scenes/Ruled%20Surfaces%20Demo.unity) and the important code that I developed is in the [Ruled Surfaces Experience/Assets/Scripts](https://github.com/GCIEL/VMM-Ruled-Surfaces-Experience/tree/master/Ruled%20Surfaces%20Experience/Assets/Scripts) folder. You can take a look at the poster and paper that I wrote for the VMM MAP summer project here.
-
 <p align="center">
   <img src="/resources/ruled07.PNG" alt="alternate" width="400">
   <img src="/resources/ruled08.PNG" alt="alternate" width="400">
 </p>
+
+The main Unity scene file is [Ruled Surfaces Experience/Assets/Scenes/Ruled Surfaces Demo](https://github.com/GCIEL/VMM-Ruled-Surfaces-Experience/blob/master/Ruled%20Surfaces%20Experience/Assets/Scenes/Ruled%20Surfaces%20Demo.unity) and the important code that I developed is in the [Ruled Surfaces Experience/Assets/Scripts](https://github.com/GCIEL/VMM-Ruled-Surfaces-Experience/tree/master/Ruled%20Surfaces%20Experience/Assets/Scripts) folder. Here are the [poster](https://github.com/GCIEL/VMM-Ruled-Surfaces-Experience/blob/master/resources/vmm_final_poster.pdf) and [paper](https://github.com/GCIEL/VMM-Ruled-Surfaces-Experience/blob/master/resources/vmm_final_paper.pdf) that I wrote for the VMM MAP summer project.
 
 ## Built With
 

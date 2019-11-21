@@ -10,7 +10,7 @@ The main Unity scene file is *Ruled Surfaces Experience/Assets/Scenes/Ruled Surf
 
 ## Screenshots
 
-<img src="resources/ruled01.png" alt="alternate" width="300">
+<img src="/resources/ruled01.PNG" alt="alternate" width="300">
 
 Here are some screenshots taken while the virtual reality experience was running.
 
@@ -21,7 +21,7 @@ Here are some screenshots taken while the virtual reality experience was running
 * [Blender](https://www.blender.org/) - Used to create 3D models and textures.
 
 ## Authors and Contributors
-*  **Tal Rastopchin** - Initial work on virtual realiy experience - [GitHub](https://github.com/trastopchin)
+*  **Tal Rastopchin** - Initial work on virtual reality experience - [GitHub](https://github.com/trastopchin)
 
 ## License
 

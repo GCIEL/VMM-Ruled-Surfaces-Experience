@@ -4,22 +4,17 @@ An alpha-level prototype virtual reality experience developed to illustrate the 
 
 <p align="center">
   <img src="/resources/ruled01.PNG" alt="alternate" width="400">
+  <img src="/resources/ruled04.PNG" alt="alternate" width="400">
 </p>
 
 The ruled surfaces investigated in this experience are grounded in models made by German mathematicians in the late 19th century. They key concept illustrated is that of how a ruled surface can be constructed out of a continuous sweeping of lines. This is a sandbox experience where players are challenged to figure out how to construct a ruled surface out of lines. Players are tasked to use the positions of their hands in space to draw out lines, called rulings, that construct four possible ruled surfaces. The player can reach out and grab to manipulate the virtual drawing.
 
-<p align="center">
-  <img src="/resources/ruled04.PNG" alt="alternate" width="400">
-</p>
-
 The experience interactively explains what a ruled surface is to the player by showing them how to construct a cylinder. Each challenge is visualized as a blue transparent blueprint that players have to fill in with their rulings. The experience also draws animated hints that show how one can move their hands to create the challenges. Players must decide for themselves whether or not they have solved how to construct a given challenge.
+
+The main Unity scene file is [Ruled Surfaces Experience/Assets/Scenes/Ruled Surfaces Demo](https://github.com/GCIEL/VMM-Ruled-Surfaces-Experience/blob/master/Ruled%20Surfaces%20Experience/Assets/Scenes/Ruled%20Surfaces%20Demo.unity) and the important code that I developed is in the [Ruled Surfaces Experience/Assets/Scripts](https://github.com/GCIEL/VMM-Ruled-Surfaces-Experience/tree/master/Ruled%20Surfaces%20Experience/Assets/Scripts) folder. You can take a look at the poster and paper that I wrote for the VMM MAP summer project here.
 
 <p align="center">
   <img src="/resources/ruled07.PNG" alt="alternate" width="400">
-</p>
-
-The main Unity scene file is *Ruled Surfaces Experience/Assets/Scenes/Ruled Surfaces Demo* and the important code that I developed is in the *Ruled Surfaces Experience/Assets/Scripts* folder. You can take a look at the poster and paper that I wrote for the VMM MAP summer project here.
-<p align="center">
   <img src="/resources/ruled08.PNG" alt="alternate" width="400">
 </p>
 

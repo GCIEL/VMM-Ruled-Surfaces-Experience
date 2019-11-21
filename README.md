@@ -8,7 +8,9 @@ The experience interactively explains what a ruled surface is to the player by s
 
 The main Unity scene file is *Ruled Surfaces Experience/Assets/Scenes/Ruled Surfaces Demo* and the important code that I developed is in the *Ruled Surfaces Experience/Assets/Scripts* folder. You can take a look at the poster and paper that I wrote for the VMM MAP summer project here. 
 
-## Experience Screenshots
+## Screenshots
+
+<img src="resources/ruled01.png" alt="alternate" width="300">
 
 Here are some screenshots taken while the virtual reality experience was running.
 

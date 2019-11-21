@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/Ruled Surfaces Demo.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

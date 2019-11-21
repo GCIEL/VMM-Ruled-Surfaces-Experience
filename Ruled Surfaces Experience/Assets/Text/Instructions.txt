@@ -1,0 +1,57 @@
+Welcome! Use the 'Y' and 'X' buttons on your left controller to navigate through this tutorial.
+
+Awesome! Now, let's get cracking.
+
+Where are we? You can look around, by well looking around. It's virtual reality!
+
+Can you find that blue transparent looking thing? In this experience, you will be making that.
+
+We are going to use that blue transparent visualization as a blueprint for what we will be making.
+
+To get a better look at the blueprint, reach out your left hand. Then, press down the left grip to 'grab' it and pull it towards you.
+
+Great job! Now, you should be able to walk around the blueprint. To rotate it, press down the left grip to 'grab' it a rotate your hand.
+
+Nice! Okay, we can get to making this object now. Can you hold down the right controller trigger?
+
+That orange line segment connecting your hands is what we call a RULING.
+
+You can create rulings by holding down both triggers and moving your hands through the air - try it out!
+
+Just liked we positioned and oriented by 'grabbing' the blueprint, use the right hand grip to position and orient by 'grabbing' your drawing.
+
+To destroy your drawing, push down your right controller joystick.
+
+It turns out that the blue transparent object in front on you is called a RULED SURFACE.
+
+These surfaces are interesting because they can be constructed out of a family of non-intersecting lines.
+
+That means that you can create them with one smooth and continuous sweep of your hands.
+
+Now, the surface that you see in front of you is called a CYLINDER.
+
+Before moving onto the other challenges, I want to show you how to make this one.
+
+To see a visual hint, push down your left controller joystick.
+
+Did you see that orange ruling draw out the CYLINDER? That is the exact motion that you want to make with your hands.
+
+To create the CYLINDER, draw directly on top of the blueprint to `fill it in.'
+
+You will know you have completed the puzzle when you can completely `fill in' the blueprints with one sweep of you arms.
+
+Go ahead, try to create the CYLINDER according to the hint, and when you are satisfied move onto the next text block.
+
+Your task will be to create each of the following ruled surfaces. The next two surfaces will have hints like this one.
+
+However, the last two will not have any hints, and you will have to brainstorm how to solve the puzzles.
+
+One way you might start the last two puzzles is by trying to find a line on the surface of the blueprint, and working forwards from there.
+
+Just like you scrolled this tutorial, you can use your 'B' and 'A' buttons on your right controller to navigate through all possible challenges.
+
+Use the 'B' button to go to the next challenge, and use the 'A' button to return to the first.
+
+To close the tutorial, use the 'B' button to scroll past the last text block!
+
+Good luck, and have fun ;)

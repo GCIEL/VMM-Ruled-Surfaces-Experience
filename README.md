@@ -6,7 +6,7 @@ The ruled surfaces investigated in this experience are grounded in models made b
 
 The experience interactively explains what a ruled surface is to the player by showing them how to construct a cylinder. Each challenge is visualized as a blue transparent blueprint that players have to fill in with their rulings. The experience also draws animated hints that show how one can move their hands to create the challenges. Players must decide for themselves whether or not they have solved how to construct a given challenge.
 
-The main Unity scene file is * Ruled Surfaces Experience/Assets/Scenes/Ruled Surfaces Demo * and the important code that I developed is in the * Ruled Surfaces Experience/Assets/Scripts * folder. You can take a look at the poster and paper that I wrote for the VMM MAP summer project here. 
+The main Unity scene file is *Ruled Surfaces Experience/Assets/Scenes/Ruled Surfaces Demo* and the important code that I developed is in the *Ruled Surfaces Experience/Assets/Scripts* folder. You can take a look at the poster and paper that I wrote for the VMM MAP summer project here. 
 
 ## Experience Screenshots
 
@@ -19,7 +19,7 @@ Here are some screenshots taken while the virtual reality experience was running
 * [Blender](https://www.blender.org/) - Used to create 3D models and textures.
 
 ## Authors and Contributors
-* ** Tal Rastopchin ** - Initial work on virtual realiy experience - [GitHub](https://github.com/trastopchin)
+*  **Tal Rastopchin** - Initial work on virtual realiy experience - [GitHub](https://github.com/trastopchin)
 
 ## License
 
@@ -27,6 +27,6 @@ This project is licensed under a [Creative Commons Attribution-NonCommercial-Sha
 
 ## Acknowledgments
 
-* This project was funded by Grinnell College
+* This project was funded by Grinnell College.
 * The project was supervised by **Christopher French**.
-* My MAP coworkers **Charun Upara** and **William Song**
+* My MAP coworkers **Charun Upara** and **William Song**.

@@ -1,6 +1,6 @@
 # VMM-Ruled-Surfaces-Experience
 
-An alpha-level prototype virtual reality experience developed to illustrate the mathematical concept of ruled surfaces and their physical construction out of strings and wire. Developed during a Mentored Advanced Project entitled Virtual Mathematical Models at Grinnell College during the summer of 2019 with Professor Christopher French.
+An alpha-level prototype virtual reality experience developed to illustrate ruled surfaces and their physical construction out of strings and wire. Developed during a Mentored Advanced Project entitled Virtual Mathematical Models at Grinnell College during the summer of 2019 with Professor Christopher French.
 
 <p align="center">
   <img src="/resources/ruled01.PNG" alt="alternate" width="400">

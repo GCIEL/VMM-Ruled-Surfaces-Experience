@@ -12,6 +12,8 @@ The ruled surfaces investigated in this experience are grounded in models made b
 
 The experience interactively explains what a ruled surface is to the player by showing them how to construct a cylinder. Each challenge is visualized as a blue transparent blueprint that players have to fill in with their rulings. The experience also draws animated hints that show how one can move their hands to create the challenges. Players must decide for themselves whether or not they have solved how to construct a given challenge.
 
+**Here are links to recordings of a walkthrough of the [interface tutorial](https://www.youtube.com/watch?v=QO31doQ4VAs) and a player [completing different ruled surfaces](https://www.youtube.com/watch?v=RigcfA9AC-M).**
+
 <p align="center">
   <img src="/resources/ruled07.PNG" alt="The player has pushed the hint button multiple times, resulting in a sequence of animated orange rulings that trace out the motion needed to construct a cylinder as a ruled surface." width="400">
 
